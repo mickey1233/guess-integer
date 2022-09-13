@@ -3,7 +3,7 @@ from string import digits
 import random
 import tkinter as tk
 import tkinter.messagebox
-
+####git版本2
 class Guess_integer:
     def distance(self,u_int,p_guess):
         distance = int(u_int) - int(p_guess)

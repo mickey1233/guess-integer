@@ -2,7 +2,7 @@ from collections import Counter
 from string import digits
 import random
 
-
+####git版本2
 #####計算python code猜的跟user設定的數字間的distance(?A?B)
 class Guess_integer:
     def distance(self,u_int,p_guess):
